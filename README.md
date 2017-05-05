@@ -1,2 +1,2 @@
 # Prueba2
-Prueba para la materia de Actualidad 
+Prueba para la materia de Actualidad Informatica
